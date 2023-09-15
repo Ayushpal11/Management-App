@@ -4,13 +4,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap]![Alt text](static/images/Screenshots/Home.png)
+Homepage snap[Alt text](static/images/Screenshots/Home.png)
 ### Admin Dashboard
-![dashboard snap]![Alt text](static/images/Screenshots/Admin.png)
+Dashboard snap[Alt text](static/images/Screenshots/Admin.png)
 ### Teacher Dashboard
-![Teacher snap]![Alt text](static/images/Screenshots/Tutor.png)
+Teacher snap[Alt text](static/images/Screenshots/Tutor.png)
 ### Student Dashboard
-![Student snap]![Alt text](static/images/Screenshots/Student.png)
+Student snap[Alt text](static/images/Screenshots/Student.png)
 ---
 
 ## Functions
