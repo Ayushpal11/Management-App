@@ -3,14 +3,19 @@
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Ayush-red)
 ---
 ## screenshots
+
 ### Homepage
-Homepage snap[Alt text](static/images/Screenshots/Home.png)
+![Homepage Snapshot](static/images/Screenshots/Home.png)
+
 ### Admin Dashboard
-Dashboard snap[Alt text](static/images/Screenshots/Admin.png)
+![Admin Dashboard Snapshot](static/images/Screenshots/Admin.png)
+
 ### Teacher Dashboard
-Teacher snap[Alt text](static/images/Screenshots/Tutor.png)
+![Teacher Dashboard Snapshot](static/images/Screenshots/Tutor.png)
+
 ### Student Dashboard
-Student snap[Alt text](static/images/Screenshots/Student.png)
+![Student Dashboard Snapshot](static/images/Screenshots/Student.png)
+
 ---
 
 ## Functions
